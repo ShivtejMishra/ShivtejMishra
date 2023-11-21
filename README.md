@@ -7,9 +7,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 I’m Interested to work on Blockchain & Artifical Intelligence
 - 📫 How to reach me: mishrashivtej54@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Artifical Intelligence & Data Science
-<img align="right" alt="coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-362.gif">
 
 <div align="center">
+  <img align="right" alt="coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-362.gif">
+
   <img src="https://github-readme-stats.vercel.app/api?username=ShivtejMishra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivtejMishra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
