@@ -44,6 +44,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://discord.gg/shivtejmshra31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shivtejmshra31" height="30" width="40" /></a>
 
 </div>
+<a href="https://github.com/ShivtejMishra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivtejMishra&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ###
 
