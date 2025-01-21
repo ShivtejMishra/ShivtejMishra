@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://shivtejmishra.io">
+    <img src="nature.webp" alt="Banner">
+  </a>
+</p>
+
 # Hi ![](https://i.pinimg.com/originals/3a/0a/e5/3a0ae50e653c51a3c61c3bb20792b20b.gif) I'm Shivtej Mishra
 
 ### Crafting Code with Purpose and Pixels  
