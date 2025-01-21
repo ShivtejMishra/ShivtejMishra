@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Shivtej Mishra
+# Hi ![](https://i.pinimg.com/originals/3a/0a/e5/3a0ae50e653c51a3c61c3bb20792b20b.gif) I'm Shivtej Mishra
 
 ### Crafting Code with Purpose and Pixels  
 **Web Artisan | AI Enthusiast | Blockchain Explorer**  
@@ -44,8 +44,8 @@
 <a href="https://linkedin.com/in/shivtejmishra" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@shivtejmishra" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 <a href="https://discord.gg/shivtejmshra31" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</div>
 
+</div>
 
 ---
 
